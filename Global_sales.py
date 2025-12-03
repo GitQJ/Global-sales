@@ -3,8 +3,7 @@
 """
 Created on Mon Dec  9 19:11:05 2024
 
-@author: Quentin JONNEAUX
-Student Number: R00274704
+@author: Quentin
 """
 
 import pandas as pd
@@ -12,7 +11,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-file_path = "/Users/Quentin/Desktop/Hdip Data Science and Analytics/Year 1/Semester 1/COMP 8060 - Scientific Programming in Python/Assignment/Project_GlobalSales.csv"
+file_path = ""
 
 # Q1 - Computing and summarising
 def main():
